@@ -1,0 +1,699 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 29/08/2018 09:24
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-add-file:before { content: "\f100"; }
+.flaticon-002-add-file-1:before { content: "\f101"; }
+.flaticon-003-folder:before { content: "\f102"; }
+.flaticon-004-folder-1:before { content: "\f103"; }
+.flaticon-005-folder-2:before { content: "\f104"; }
+.flaticon-006-add-file-2:before { content: "\f105"; }
+.flaticon-007-file:before { content: "\f106"; }
+.flaticon-008-file-1:before { content: "\f107"; }
+.flaticon-009-folder-3:before { content: "\f108"; }
+.flaticon-010-folder-4:before { content: "\f109"; }
+.flaticon-011-folder-5:before { content: "\f10a"; }
+.flaticon-012-file-2:before { content: "\f10b"; }
+.flaticon-013-file-3:before { content: "\f10c"; }
+.flaticon-014-file-4:before { content: "\f10d"; }
+.flaticon-015-folder-6:before { content: "\f10e"; }
+.flaticon-016-folder-7:before { content: "\f10f"; }
+.flaticon-017-folder-8:before { content: "\f110"; }
+.flaticon-018-file-5:before { content: "\f111"; }
+.flaticon-019-file-6:before { content: "\f112"; }
+.flaticon-020-file-7:before { content: "\f113"; }
+.flaticon-021-folder-9:before { content: "\f114"; }
+.flaticon-022-folder-10:before { content: "\f115"; }
+.flaticon-023-folder-11:before { content: "\f116"; }
+.flaticon-024-file-8:before { content: "\f117"; }
+.flaticon-025-file-9:before { content: "\f118"; }
+.flaticon-026-file-10:before { content: "\f119"; }
+.flaticon-027-folder-12:before { content: "\f11a"; }
+.flaticon-028-folder-13:before { content: "\f11b"; }
+.flaticon-029-folder-14:before { content: "\f11c"; }
+.flaticon-030-file-11:before { content: "\f11d"; }
+.flaticon-031-analytics:before { content: "\f11e"; }
+.flaticon-032-analytics-1:before { content: "\f11f"; }
+.flaticon-033-folder-15:before { content: "\f120"; }
+.flaticon-034-folder-16:before { content: "\f121"; }
+.flaticon-035-folder-17:before { content: "\f122"; }
+.flaticon-036-analytics-2:before { content: "\f123"; }
+.flaticon-037-file-12:before { content: "\f124"; }
+.flaticon-038-file-13:before { content: "\f125"; }
+.flaticon-039-folder-18:before { content: "\f126"; }
+.flaticon-040-folder-19:before { content: "\f127"; }
+.flaticon-041-folder-20:before { content: "\f128"; }
+.flaticon-042-file-14:before { content: "\f129"; }
+.flaticon-043-file-15:before { content: "\f12a"; }
+.flaticon-044-file-16:before { content: "\f12b"; }
+.flaticon-045-folder-21:before { content: "\f12c"; }
+.flaticon-046-folder-22:before { content: "\f12d"; }
+.flaticon-047-folder-23:before { content: "\f12e"; }
+.flaticon-048-file-17:before { content: "\f12f"; }
+.flaticon-049-file-18:before { content: "\f130"; }
+.flaticon-050-file-19:before { content: "\f131"; }
+.flaticon-051-folder-24:before { content: "\f132"; }
+.flaticon-052-folder-25:before { content: "\f133"; }
+.flaticon-053-folder-26:before { content: "\f134"; }
+.flaticon-054-file-20:before { content: "\f135"; }
+.flaticon-055-file-21:before { content: "\f136"; }
+.flaticon-056-file-22:before { content: "\f137"; }
+.flaticon-057-folder-27:before { content: "\f138"; }
+.flaticon-058-folder-28:before { content: "\f139"; }
+.flaticon-059-folder-29:before { content: "\f13a"; }
+.flaticon-060-file-23:before { content: "\f13b"; }
+.flaticon-061-file-24:before { content: "\f13c"; }
+.flaticon-062-file-25:before { content: "\f13d"; }
+.flaticon-063-folder-30:before { content: "\f13e"; }
+.flaticon-064-folder-31:before { content: "\f13f"; }
+.flaticon-065-folder-32:before { content: "\f140"; }
+.flaticon-066-file-26:before { content: "\f141"; }
+.flaticon-067-file-27:before { content: "\f142"; }
+.flaticon-068-file-28:before { content: "\f143"; }
+.flaticon-069-folder-33:before { content: "\f144"; }
+.flaticon-070-folder-34:before { content: "\f145"; }
+.flaticon-071-folder-35:before { content: "\f146"; }
+.flaticon-072-file-29:before { content: "\f147"; }
+.flaticon-073-file-30:before { content: "\f148"; }
+.flaticon-074-file-31:before { content: "\f149"; }
+.flaticon-075-folder-36:before { content: "\f14a"; }
+.flaticon-076-folder-37:before { content: "\f14b"; }
+.flaticon-077-folder-38:before { content: "\f14c"; }
+.flaticon-078-file-32:before { content: "\f14d"; }
+.flaticon-079-file-33:before { content: "\f14e"; }
+.flaticon-080-file-34:before { content: "\f14f"; }
+.flaticon-081-folder-39:before { content: "\f150"; }
+.flaticon-082-folder-40:before { content: "\f151"; }
+.flaticon-083-folder-41:before { content: "\f152"; }
+.flaticon-084-file-35:before { content: "\f153"; }
+.flaticon-085-file-36:before { content: "\f154"; }
+.flaticon-086-file-37:before { content: "\f155"; }
+.flaticon-087-folder-42:before { content: "\f156"; }
+.flaticon-088-folder-43:before { content: "\f157"; }
+.flaticon-089-folder-44:before { content: "\f158"; }
+.flaticon-090-file-38:before { content: "\f159"; }
+.flaticon-091-file-39:before { content: "\f15a"; }
+.flaticon-092-file-40:before { content: "\f15b"; }
+.flaticon-093-folder-45:before { content: "\f15c"; }
+.flaticon-094-folder-46:before { content: "\f15d"; }
+.flaticon-095-folder-47:before { content: "\f15e"; }
+.flaticon-096-file-41:before { content: "\f15f"; }
+.flaticon-097-file-42:before { content: "\f160"; }
+.flaticon-098-file-43:before { content: "\f161"; }
+.flaticon-099-folder-48:before { content: "\f162"; }
+.flaticon-100-folder-49:before { content: "\f163"; }
+.flaticon-101-folder-50:before { content: "\f164"; }
+.flaticon-102-file-44:before { content: "\f165"; }
+.flaticon-103-file-45:before { content: "\f166"; }
+.flaticon-104-file-46:before { content: "\f167"; }
+.flaticon-105-folder-51:before { content: "\f168"; }
+.flaticon-106-folder-52:before { content: "\f169"; }
+.flaticon-107-folder-53:before { content: "\f16a"; }
+.flaticon-108-file-47:before { content: "\f16b"; }
+.flaticon-109-file-48:before { content: "\f16c"; }
+.flaticon-110-file-49:before { content: "\f16d"; }
+.flaticon-111-folder-54:before { content: "\f16e"; }
+.flaticon-112-folder-55:before { content: "\f16f"; }
+.flaticon-113-folder-56:before { content: "\f170"; }
+.flaticon-114-file-50:before { content: "\f171"; }
+.flaticon-115-file-51:before { content: "\f172"; }
+.flaticon-116-file-52:before { content: "\f173"; }
+.flaticon-117-folder-57:before { content: "\f174"; }
+.flaticon-118-folder-58:before { content: "\f175"; }
+.flaticon-119-folder-59:before { content: "\f176"; }
+.flaticon-120-file-53:before { content: "\f177"; }
+.flaticon-121-folder-60:before { content: "\f178"; }
+.flaticon-122-file-54:before { content: "\f179"; }
+.flaticon-123-file-55:before { content: "\f17a"; }
+.flaticon-124-folder-61:before { content: "\f17b"; }
+.flaticon-125-folder-62:before { content: "\f17c"; }
+.flaticon-126-folder-63:before { content: "\f17d"; }
+.flaticon-127-file-56:before { content: "\f17e"; }
+.flaticon-128-file-57:before { content: "\f17f"; }
+.flaticon-129-file-58:before { content: "\f180"; }
+.flaticon-130-folder-64:before { content: "\f181"; }
+.flaticon-131-folder-65:before { content: "\f182"; }
+.flaticon-132-folder-66:before { content: "\f183"; }
+.flaticon-133-file-59:before { content: "\f184"; }
+.flaticon-134-file-60:before { content: "\f185"; }
+.flaticon-135-file-61:before { content: "\f186"; }
+.flaticon-136-folder-67:before { content: "\f187"; }
+.flaticon-137-folder-68:before { content: "\f188"; }
+.flaticon-138-folder-69:before { content: "\f189"; }
+.flaticon-139-file-62:before { content: "\f18a"; }
+.flaticon-140-file-63:before { content: "\f18b"; }
+.flaticon-141-file-64:before { content: "\f18c"; }
+.flaticon-142-folder-70:before { content: "\f18d"; }
+.flaticon-143-folder-71:before { content: "\f18e"; }
+.flaticon-144-folder-72:before { content: "\f18f"; }
+.flaticon-145-file-65:before { content: "\f190"; }
+.flaticon-146-file-66:before { content: "\f191"; }
+.flaticon-147-file-67:before { content: "\f192"; }
+.flaticon-148-folder-73:before { content: "\f193"; }
+.flaticon-149-folder-74:before { content: "\f194"; }
+.flaticon-150-folder-75:before { content: "\f195"; }
+.flaticon-151-file-68:before { content: "\f196"; }
+.flaticon-152-file-69:before { content: "\f197"; }
+.flaticon-153-file-70:before { content: "\f198"; }
+.flaticon-154-folder-76:before { content: "\f199"; }
+.flaticon-155-folder-77:before { content: "\f19a"; }
+.flaticon-156-folder-78:before { content: "\f19b"; }
+.flaticon-157-file-71:before { content: "\f19c"; }
+.flaticon-158-file-72:before { content: "\f19d"; }
+.flaticon-159-file-73:before { content: "\f19e"; }
+.flaticon-160-folder-79:before { content: "\f19f"; }
+.flaticon-161-folder-80:before { content: "\f1a0"; }
+.flaticon-162-folder-81:before { content: "\f1a1"; }
+.flaticon-163-file-74:before { content: "\f1a2"; }
+.flaticon-164-file-75:before { content: "\f1a3"; }
+.flaticon-165-file-76:before { content: "\f1a4"; }
+.flaticon-166-folder-82:before { content: "\f1a5"; }
+.flaticon-167-folder-83:before { content: "\f1a6"; }
+.flaticon-168-file-77:before { content: "\f1a7"; }
+.flaticon-169-file-78:before { content: "\f1a8"; }
+.flaticon-170-file-79:before { content: "\f1a9"; }
+.flaticon-171-folder-84:before { content: "\f1aa"; }
+.flaticon-172-folder-85:before { content: "\f1ab"; }
+.flaticon-173-folder-86:before { content: "\f1ac"; }
+.flaticon-174-file-80:before { content: "\f1ad"; }
+.flaticon-175-file-81:before { content: "\f1ae"; }
+.flaticon-176-file-82:before { content: "\f1af"; }
+.flaticon-177-folder-87:before { content: "\f1b0"; }
+.flaticon-178-folder-88:before { content: "\f1b1"; }
+.flaticon-179-folder-89:before { content: "\f1b2"; }
+.flaticon-180-file-83:before { content: "\f1b3"; }
+.flaticon-181-file-84:before { content: "\f1b4"; }
+.flaticon-182-file-85:before { content: "\f1b5"; }
+.flaticon-183-folder-90:before { content: "\f1b6"; }
+.flaticon-184-folder-91:before { content: "\f1b7"; }
+.flaticon-185-folder-92:before { content: "\f1b8"; }
+.flaticon-186-file-86:before { content: "\f1b9"; }
+.flaticon-187-file-87:before { content: "\f1ba"; }
+.flaticon-188-file-88:before { content: "\f1bb"; }
+.flaticon-189-folder-93:before { content: "\f1bc"; }
+.flaticon-190-folder-94:before { content: "\f1bd"; }
+.flaticon-191-folder-95:before { content: "\f1be"; }
+.flaticon-192-file-89:before { content: "\f1bf"; }
+.flaticon-193-file-90:before { content: "\f1c0"; }
+.flaticon-194-file-91:before { content: "\f1c1"; }
+.flaticon-195-folder-96:before { content: "\f1c2"; }
+.flaticon-196-folder-97:before { content: "\f1c3"; }
+.flaticon-197-folder-98:before { content: "\f1c4"; }
+.flaticon-198-file-92:before { content: "\f1c5"; }
+.flaticon-199-file-93:before { content: "\f1c6"; }
+.flaticon-200-file-94:before { content: "\f1c7"; }
+.flaticon-201-folder-99:before { content: "\f1c8"; }
+.flaticon-202-folder-100:before { content: "\f1c9"; }
+.flaticon-203-folder-101:before { content: "\f1ca"; }
+.flaticon-204-file-95:before { content: "\f1cb"; }
+.flaticon-205-file-96:before { content: "\f1cc"; }
+.flaticon-206-file-97:before { content: "\f1cd"; }
+.flaticon-207-folder-102:before { content: "\f1ce"; }
+.flaticon-208-folder-103:before { content: "\f1cf"; }
+.flaticon-209-folder-104:before { content: "\f1d0"; }
+.flaticon-210-file-98:before { content: "\f1d1"; }
+.flaticon-211-file-99:before { content: "\f1d2"; }
+.flaticon-212-file-100:before { content: "\f1d3"; }
+.flaticon-213-folder-105:before { content: "\f1d4"; }
+.flaticon-214-folder-106:before { content: "\f1d5"; }
+.flaticon-215-folder-107:before { content: "\f1d6"; }
+.flaticon-216-file-101:before { content: "\f1d7"; }
+.flaticon-217-file-102:before { content: "\f1d8"; }
+.flaticon-218-file-103:before { content: "\f1d9"; }
+.flaticon-219-folder-108:before { content: "\f1da"; }
+.flaticon-220-folder-109:before { content: "\f1db"; }
+.flaticon-221-folder-110:before { content: "\f1dc"; }
+.flaticon-222-file-104:before { content: "\f1dd"; }
+.flaticon-223-remove:before { content: "\f1de"; }
+.flaticon-224-remove-1:before { content: "\f1df"; }
+.flaticon-225-folder-111:before { content: "\f1e0"; }
+.flaticon-226-folder-112:before { content: "\f1e1"; }
+.flaticon-227-folder-113:before { content: "\f1e2"; }
+.flaticon-228-file-105:before { content: "\f1e3"; }
+.flaticon-229-file-106:before { content: "\f1e4"; }
+.flaticon-230-file-107:before { content: "\f1e5"; }
+.flaticon-231-folder-114:before { content: "\f1e6"; }
+.flaticon-232-folder-115:before { content: "\f1e7"; }
+.flaticon-233-folder-116:before { content: "\f1e8"; }
+.flaticon-234-file-108:before { content: "\f1e9"; }
+.flaticon-235-file-109:before { content: "\f1ea"; }
+.flaticon-236-file-110:before { content: "\f1eb"; }
+.flaticon-237-folder-117:before { content: "\f1ec"; }
+.flaticon-238-folder-118:before { content: "\f1ed"; }
+.flaticon-239-folder-119:before { content: "\f1ee"; }
+.flaticon-240-file-111:before { content: "\f1ef"; }
+.flaticon-241-file-112:before { content: "\f1f0"; }
+.flaticon-242-file-113:before { content: "\f1f1"; }
+.flaticon-243-folder-120:before { content: "\f1f2"; }
+.flaticon-244-folder-121:before { content: "\f1f3"; }
+.flaticon-245-folder-122:before { content: "\f1f4"; }
+.flaticon-246-file-114:before { content: "\f1f5"; }
+.flaticon-247-file-115:before { content: "\f1f6"; }
+.flaticon-248-file-116:before { content: "\f1f7"; }
+.flaticon-249-folder-123:before { content: "\f1f8"; }
+.flaticon-250-folder-124:before { content: "\f1f9"; }
+.flaticon-251-folder-125:before { content: "\f1fa"; }
+.flaticon-252-file-117:before { content: "\f1fb"; }
+.flaticon-253-file-118:before { content: "\f1fc"; }
+.flaticon-254-file-119:before { content: "\f1fd"; }
+.flaticon-255-folder-126:before { content: "\f1fe"; }
+.flaticon-256-folder-127:before { content: "\f1ff"; }
+.flaticon-257-folder-128:before { content: "\f200"; }
+.flaticon-258-file-120:before { content: "\f201"; }
+.flaticon-259-file-121:before { content: "\f202"; }
+.flaticon-260-file-122:before { content: "\f203"; }
+.flaticon-261-folder-129:before { content: "\f204"; }
+.flaticon-262-folder-130:before { content: "\f205"; }
+.flaticon-263-folder-131:before { content: "\f206"; }
+.flaticon-264-file-123:before { content: "\f207"; }
+.flaticon-265-file-124:before { content: "\f208"; }
+.flaticon-266-file-125:before { content: "\f209"; }
+.flaticon-267-folder-132:before { content: "\f20a"; }
+.flaticon-268-folder-133:before { content: "\f20b"; }
+.flaticon-269-folder-134:before { content: "\f20c"; }
+.flaticon-270-file-126:before { content: "\f20d"; }
+.flaticon-271-file-127:before { content: "\f20e"; }
+.flaticon-272-file-128:before { content: "\f20f"; }
+.flaticon-273-folder-135:before { content: "\f210"; }
+.flaticon-274-folder-136:before { content: "\f211"; }
+.flaticon-275-folder-137:before { content: "\f212"; }
+.flaticon-276-file-129:before { content: "\f213"; }
+.flaticon-277-file-130:before { content: "\f214"; }
+.flaticon-278-file-131:before { content: "\f215"; }
+.flaticon-279-folder-138:before { content: "\f216"; }
+.flaticon-280-folder-139:before { content: "\f217"; }
+.flaticon-281-folder-140:before { content: "\f218"; }
+.flaticon-282-file-132:before { content: "\f219"; }
+.flaticon-283-file-133:before { content: "\f21a"; }
+.flaticon-284-file-134:before { content: "\f21b"; }
+.flaticon-285-folder-141:before { content: "\f21c"; }
+.flaticon-286-folder-142:before { content: "\f21d"; }
+.flaticon-287-folder-143:before { content: "\f21e"; }
+.flaticon-288-file-135:before { content: "\f21f"; }
+.flaticon-289-file-136:before { content: "\f220"; }
+.flaticon-290-file-137:before { content: "\f221"; }
+.flaticon-291-folder-144:before { content: "\f222"; }
+.flaticon-292-folder-145:before { content: "\f223"; }
+.flaticon-293-folder-146:before { content: "\f224"; }
+.flaticon-294-file-138:before { content: "\f225"; }
+.flaticon-295-file-139:before { content: "\f226"; }
+.flaticon-296-file-140:before { content: "\f227"; }
+.flaticon-297-folder-147:before { content: "\f228"; }
+.flaticon-298-folder-148:before { content: "\f229"; }
+.flaticon-299-folder-149:before { content: "\f22a"; }
+.flaticon-300-file-141:before { content: "\f22b"; }
+.flaticon-301-file-142:before { content: "\f22c"; }
+.flaticon-302-file-143:before { content: "\f22d"; }
+.flaticon-303-folder-150:before { content: "\f22e"; }
+.flaticon-304-folder-151:before { content: "\f22f"; }
+.flaticon-305-folder-152:before { content: "\f230"; }
+.flaticon-306-file-144:before { content: "\f231"; }
+.flaticon-307-video-file:before { content: "\f232"; }
+.flaticon-308-video-file-1:before { content: "\f233"; }
+.flaticon-309-folder-153:before { content: "\f234"; }
+.flaticon-310-folder-154:before { content: "\f235"; }
+.flaticon-311-folder-155:before { content: "\f236"; }
+.flaticon-312-video-file-2:before { content: "\f237"; }
+.flaticon-313-file-145:before { content: "\f238"; }
+.flaticon-314-file-146:before { content: "\f239"; }
+.flaticon-315-folder-156:before { content: "\f23a"; }
+.flaticon-316-folder-157:before { content: "\f23b"; }
+.flaticon-317-folder-158:before { content: "\f23c"; }
+.flaticon-318-file-147:before { content: "\f23d"; }
+.flaticon-319-file-148:before { content: "\f23e"; }
+.flaticon-320-file-149:before { content: "\f23f"; }
+.flaticon-321-folder-159:before { content: "\f240"; }
+.flaticon-322-folder-160:before { content: "\f241"; }
+.flaticon-323-folder-161:before { content: "\f242"; }
+.flaticon-324-file-150:before { content: "\f243"; }
+.flaticon-325-file-151:before { content: "\f244"; }
+.flaticon-326-file-152:before { content: "\f245"; }
+.flaticon-327-folder-162:before { content: "\f246"; }
+.flaticon-328-folder-163:before { content: "\f247"; }
+.flaticon-329-folder-164:before { content: "\f248"; }
+.flaticon-330-file-153:before { content: "\f249"; }
+    
+    $font-Flaticon-001-add-file: "\f100";
+    $font-Flaticon-002-add-file-1: "\f101";
+    $font-Flaticon-003-folder: "\f102";
+    $font-Flaticon-004-folder-1: "\f103";
+    $font-Flaticon-005-folder-2: "\f104";
+    $font-Flaticon-006-add-file-2: "\f105";
+    $font-Flaticon-007-file: "\f106";
+    $font-Flaticon-008-file-1: "\f107";
+    $font-Flaticon-009-folder-3: "\f108";
+    $font-Flaticon-010-folder-4: "\f109";
+    $font-Flaticon-011-folder-5: "\f10a";
+    $font-Flaticon-012-file-2: "\f10b";
+    $font-Flaticon-013-file-3: "\f10c";
+    $font-Flaticon-014-file-4: "\f10d";
+    $font-Flaticon-015-folder-6: "\f10e";
+    $font-Flaticon-016-folder-7: "\f10f";
+    $font-Flaticon-017-folder-8: "\f110";
+    $font-Flaticon-018-file-5: "\f111";
+    $font-Flaticon-019-file-6: "\f112";
+    $font-Flaticon-020-file-7: "\f113";
+    $font-Flaticon-021-folder-9: "\f114";
+    $font-Flaticon-022-folder-10: "\f115";
+    $font-Flaticon-023-folder-11: "\f116";
+    $font-Flaticon-024-file-8: "\f117";
+    $font-Flaticon-025-file-9: "\f118";
+    $font-Flaticon-026-file-10: "\f119";
+    $font-Flaticon-027-folder-12: "\f11a";
+    $font-Flaticon-028-folder-13: "\f11b";
+    $font-Flaticon-029-folder-14: "\f11c";
+    $font-Flaticon-030-file-11: "\f11d";
+    $font-Flaticon-031-analytics: "\f11e";
+    $font-Flaticon-032-analytics-1: "\f11f";
+    $font-Flaticon-033-folder-15: "\f120";
+    $font-Flaticon-034-folder-16: "\f121";
+    $font-Flaticon-035-folder-17: "\f122";
+    $font-Flaticon-036-analytics-2: "\f123";
+    $font-Flaticon-037-file-12: "\f124";
+    $font-Flaticon-038-file-13: "\f125";
+    $font-Flaticon-039-folder-18: "\f126";
+    $font-Flaticon-040-folder-19: "\f127";
+    $font-Flaticon-041-folder-20: "\f128";
+    $font-Flaticon-042-file-14: "\f129";
+    $font-Flaticon-043-file-15: "\f12a";
+    $font-Flaticon-044-file-16: "\f12b";
+    $font-Flaticon-045-folder-21: "\f12c";
+    $font-Flaticon-046-folder-22: "\f12d";
+    $font-Flaticon-047-folder-23: "\f12e";
+    $font-Flaticon-048-file-17: "\f12f";
+    $font-Flaticon-049-file-18: "\f130";
+    $font-Flaticon-050-file-19: "\f131";
+    $font-Flaticon-051-folder-24: "\f132";
+    $font-Flaticon-052-folder-25: "\f133";
+    $font-Flaticon-053-folder-26: "\f134";
+    $font-Flaticon-054-file-20: "\f135";
+    $font-Flaticon-055-file-21: "\f136";
+    $font-Flaticon-056-file-22: "\f137";
+    $font-Flaticon-057-folder-27: "\f138";
+    $font-Flaticon-058-folder-28: "\f139";
+    $font-Flaticon-059-folder-29: "\f13a";
+    $font-Flaticon-060-file-23: "\f13b";
+    $font-Flaticon-061-file-24: "\f13c";
+    $font-Flaticon-062-file-25: "\f13d";
+    $font-Flaticon-063-folder-30: "\f13e";
+    $font-Flaticon-064-folder-31: "\f13f";
+    $font-Flaticon-065-folder-32: "\f140";
+    $font-Flaticon-066-file-26: "\f141";
+    $font-Flaticon-067-file-27: "\f142";
+    $font-Flaticon-068-file-28: "\f143";
+    $font-Flaticon-069-folder-33: "\f144";
+    $font-Flaticon-070-folder-34: "\f145";
+    $font-Flaticon-071-folder-35: "\f146";
+    $font-Flaticon-072-file-29: "\f147";
+    $font-Flaticon-073-file-30: "\f148";
+    $font-Flaticon-074-file-31: "\f149";
+    $font-Flaticon-075-folder-36: "\f14a";
+    $font-Flaticon-076-folder-37: "\f14b";
+    $font-Flaticon-077-folder-38: "\f14c";
+    $font-Flaticon-078-file-32: "\f14d";
+    $font-Flaticon-079-file-33: "\f14e";
+    $font-Flaticon-080-file-34: "\f14f";
+    $font-Flaticon-081-folder-39: "\f150";
+    $font-Flaticon-082-folder-40: "\f151";
+    $font-Flaticon-083-folder-41: "\f152";
+    $font-Flaticon-084-file-35: "\f153";
+    $font-Flaticon-085-file-36: "\f154";
+    $font-Flaticon-086-file-37: "\f155";
+    $font-Flaticon-087-folder-42: "\f156";
+    $font-Flaticon-088-folder-43: "\f157";
+    $font-Flaticon-089-folder-44: "\f158";
+    $font-Flaticon-090-file-38: "\f159";
+    $font-Flaticon-091-file-39: "\f15a";
+    $font-Flaticon-092-file-40: "\f15b";
+    $font-Flaticon-093-folder-45: "\f15c";
+    $font-Flaticon-094-folder-46: "\f15d";
+    $font-Flaticon-095-folder-47: "\f15e";
+    $font-Flaticon-096-file-41: "\f15f";
+    $font-Flaticon-097-file-42: "\f160";
+    $font-Flaticon-098-file-43: "\f161";
+    $font-Flaticon-099-folder-48: "\f162";
+    $font-Flaticon-100-folder-49: "\f163";
+    $font-Flaticon-101-folder-50: "\f164";
+    $font-Flaticon-102-file-44: "\f165";
+    $font-Flaticon-103-file-45: "\f166";
+    $font-Flaticon-104-file-46: "\f167";
+    $font-Flaticon-105-folder-51: "\f168";
+    $font-Flaticon-106-folder-52: "\f169";
+    $font-Flaticon-107-folder-53: "\f16a";
+    $font-Flaticon-108-file-47: "\f16b";
+    $font-Flaticon-109-file-48: "\f16c";
+    $font-Flaticon-110-file-49: "\f16d";
+    $font-Flaticon-111-folder-54: "\f16e";
+    $font-Flaticon-112-folder-55: "\f16f";
+    $font-Flaticon-113-folder-56: "\f170";
+    $font-Flaticon-114-file-50: "\f171";
+    $font-Flaticon-115-file-51: "\f172";
+    $font-Flaticon-116-file-52: "\f173";
+    $font-Flaticon-117-folder-57: "\f174";
+    $font-Flaticon-118-folder-58: "\f175";
+    $font-Flaticon-119-folder-59: "\f176";
+    $font-Flaticon-120-file-53: "\f177";
+    $font-Flaticon-121-folder-60: "\f178";
+    $font-Flaticon-122-file-54: "\f179";
+    $font-Flaticon-123-file-55: "\f17a";
+    $font-Flaticon-124-folder-61: "\f17b";
+    $font-Flaticon-125-folder-62: "\f17c";
+    $font-Flaticon-126-folder-63: "\f17d";
+    $font-Flaticon-127-file-56: "\f17e";
+    $font-Flaticon-128-file-57: "\f17f";
+    $font-Flaticon-129-file-58: "\f180";
+    $font-Flaticon-130-folder-64: "\f181";
+    $font-Flaticon-131-folder-65: "\f182";
+    $font-Flaticon-132-folder-66: "\f183";
+    $font-Flaticon-133-file-59: "\f184";
+    $font-Flaticon-134-file-60: "\f185";
+    $font-Flaticon-135-file-61: "\f186";
+    $font-Flaticon-136-folder-67: "\f187";
+    $font-Flaticon-137-folder-68: "\f188";
+    $font-Flaticon-138-folder-69: "\f189";
+    $font-Flaticon-139-file-62: "\f18a";
+    $font-Flaticon-140-file-63: "\f18b";
+    $font-Flaticon-141-file-64: "\f18c";
+    $font-Flaticon-142-folder-70: "\f18d";
+    $font-Flaticon-143-folder-71: "\f18e";
+    $font-Flaticon-144-folder-72: "\f18f";
+    $font-Flaticon-145-file-65: "\f190";
+    $font-Flaticon-146-file-66: "\f191";
+    $font-Flaticon-147-file-67: "\f192";
+    $font-Flaticon-148-folder-73: "\f193";
+    $font-Flaticon-149-folder-74: "\f194";
+    $font-Flaticon-150-folder-75: "\f195";
+    $font-Flaticon-151-file-68: "\f196";
+    $font-Flaticon-152-file-69: "\f197";
+    $font-Flaticon-153-file-70: "\f198";
+    $font-Flaticon-154-folder-76: "\f199";
+    $font-Flaticon-155-folder-77: "\f19a";
+    $font-Flaticon-156-folder-78: "\f19b";
+    $font-Flaticon-157-file-71: "\f19c";
+    $font-Flaticon-158-file-72: "\f19d";
+    $font-Flaticon-159-file-73: "\f19e";
+    $font-Flaticon-160-folder-79: "\f19f";
+    $font-Flaticon-161-folder-80: "\f1a0";
+    $font-Flaticon-162-folder-81: "\f1a1";
+    $font-Flaticon-163-file-74: "\f1a2";
+    $font-Flaticon-164-file-75: "\f1a3";
+    $font-Flaticon-165-file-76: "\f1a4";
+    $font-Flaticon-166-folder-82: "\f1a5";
+    $font-Flaticon-167-folder-83: "\f1a6";
+    $font-Flaticon-168-file-77: "\f1a7";
+    $font-Flaticon-169-file-78: "\f1a8";
+    $font-Flaticon-170-file-79: "\f1a9";
+    $font-Flaticon-171-folder-84: "\f1aa";
+    $font-Flaticon-172-folder-85: "\f1ab";
+    $font-Flaticon-173-folder-86: "\f1ac";
+    $font-Flaticon-174-file-80: "\f1ad";
+    $font-Flaticon-175-file-81: "\f1ae";
+    $font-Flaticon-176-file-82: "\f1af";
+    $font-Flaticon-177-folder-87: "\f1b0";
+    $font-Flaticon-178-folder-88: "\f1b1";
+    $font-Flaticon-179-folder-89: "\f1b2";
+    $font-Flaticon-180-file-83: "\f1b3";
+    $font-Flaticon-181-file-84: "\f1b4";
+    $font-Flaticon-182-file-85: "\f1b5";
+    $font-Flaticon-183-folder-90: "\f1b6";
+    $font-Flaticon-184-folder-91: "\f1b7";
+    $font-Flaticon-185-folder-92: "\f1b8";
+    $font-Flaticon-186-file-86: "\f1b9";
+    $font-Flaticon-187-file-87: "\f1ba";
+    $font-Flaticon-188-file-88: "\f1bb";
+    $font-Flaticon-189-folder-93: "\f1bc";
+    $font-Flaticon-190-folder-94: "\f1bd";
+    $font-Flaticon-191-folder-95: "\f1be";
+    $font-Flaticon-192-file-89: "\f1bf";
+    $font-Flaticon-193-file-90: "\f1c0";
+    $font-Flaticon-194-file-91: "\f1c1";
+    $font-Flaticon-195-folder-96: "\f1c2";
+    $font-Flaticon-196-folder-97: "\f1c3";
+    $font-Flaticon-197-folder-98: "\f1c4";
+    $font-Flaticon-198-file-92: "\f1c5";
+    $font-Flaticon-199-file-93: "\f1c6";
+    $font-Flaticon-200-file-94: "\f1c7";
+    $font-Flaticon-201-folder-99: "\f1c8";
+    $font-Flaticon-202-folder-100: "\f1c9";
+    $font-Flaticon-203-folder-101: "\f1ca";
+    $font-Flaticon-204-file-95: "\f1cb";
+    $font-Flaticon-205-file-96: "\f1cc";
+    $font-Flaticon-206-file-97: "\f1cd";
+    $font-Flaticon-207-folder-102: "\f1ce";
+    $font-Flaticon-208-folder-103: "\f1cf";
+    $font-Flaticon-209-folder-104: "\f1d0";
+    $font-Flaticon-210-file-98: "\f1d1";
+    $font-Flaticon-211-file-99: "\f1d2";
+    $font-Flaticon-212-file-100: "\f1d3";
+    $font-Flaticon-213-folder-105: "\f1d4";
+    $font-Flaticon-214-folder-106: "\f1d5";
+    $font-Flaticon-215-folder-107: "\f1d6";
+    $font-Flaticon-216-file-101: "\f1d7";
+    $font-Flaticon-217-file-102: "\f1d8";
+    $font-Flaticon-218-file-103: "\f1d9";
+    $font-Flaticon-219-folder-108: "\f1da";
+    $font-Flaticon-220-folder-109: "\f1db";
+    $font-Flaticon-221-folder-110: "\f1dc";
+    $font-Flaticon-222-file-104: "\f1dd";
+    $font-Flaticon-223-remove: "\f1de";
+    $font-Flaticon-224-remove-1: "\f1df";
+    $font-Flaticon-225-folder-111: "\f1e0";
+    $font-Flaticon-226-folder-112: "\f1e1";
+    $font-Flaticon-227-folder-113: "\f1e2";
+    $font-Flaticon-228-file-105: "\f1e3";
+    $font-Flaticon-229-file-106: "\f1e4";
+    $font-Flaticon-230-file-107: "\f1e5";
+    $font-Flaticon-231-folder-114: "\f1e6";
+    $font-Flaticon-232-folder-115: "\f1e7";
+    $font-Flaticon-233-folder-116: "\f1e8";
+    $font-Flaticon-234-file-108: "\f1e9";
+    $font-Flaticon-235-file-109: "\f1ea";
+    $font-Flaticon-236-file-110: "\f1eb";
+    $font-Flaticon-237-folder-117: "\f1ec";
+    $font-Flaticon-238-folder-118: "\f1ed";
+    $font-Flaticon-239-folder-119: "\f1ee";
+    $font-Flaticon-240-file-111: "\f1ef";
+    $font-Flaticon-241-file-112: "\f1f0";
+    $font-Flaticon-242-file-113: "\f1f1";
+    $font-Flaticon-243-folder-120: "\f1f2";
+    $font-Flaticon-244-folder-121: "\f1f3";
+    $font-Flaticon-245-folder-122: "\f1f4";
+    $font-Flaticon-246-file-114: "\f1f5";
+    $font-Flaticon-247-file-115: "\f1f6";
+    $font-Flaticon-248-file-116: "\f1f7";
+    $font-Flaticon-249-folder-123: "\f1f8";
+    $font-Flaticon-250-folder-124: "\f1f9";
+    $font-Flaticon-251-folder-125: "\f1fa";
+    $font-Flaticon-252-file-117: "\f1fb";
+    $font-Flaticon-253-file-118: "\f1fc";
+    $font-Flaticon-254-file-119: "\f1fd";
+    $font-Flaticon-255-folder-126: "\f1fe";
+    $font-Flaticon-256-folder-127: "\f1ff";
+    $font-Flaticon-257-folder-128: "\f200";
+    $font-Flaticon-258-file-120: "\f201";
+    $font-Flaticon-259-file-121: "\f202";
+    $font-Flaticon-260-file-122: "\f203";
+    $font-Flaticon-261-folder-129: "\f204";
+    $font-Flaticon-262-folder-130: "\f205";
+    $font-Flaticon-263-folder-131: "\f206";
+    $font-Flaticon-264-file-123: "\f207";
+    $font-Flaticon-265-file-124: "\f208";
+    $font-Flaticon-266-file-125: "\f209";
+    $font-Flaticon-267-folder-132: "\f20a";
+    $font-Flaticon-268-folder-133: "\f20b";
+    $font-Flaticon-269-folder-134: "\f20c";
+    $font-Flaticon-270-file-126: "\f20d";
+    $font-Flaticon-271-file-127: "\f20e";
+    $font-Flaticon-272-file-128: "\f20f";
+    $font-Flaticon-273-folder-135: "\f210";
+    $font-Flaticon-274-folder-136: "\f211";
+    $font-Flaticon-275-folder-137: "\f212";
+    $font-Flaticon-276-file-129: "\f213";
+    $font-Flaticon-277-file-130: "\f214";
+    $font-Flaticon-278-file-131: "\f215";
+    $font-Flaticon-279-folder-138: "\f216";
+    $font-Flaticon-280-folder-139: "\f217";
+    $font-Flaticon-281-folder-140: "\f218";
+    $font-Flaticon-282-file-132: "\f219";
+    $font-Flaticon-283-file-133: "\f21a";
+    $font-Flaticon-284-file-134: "\f21b";
+    $font-Flaticon-285-folder-141: "\f21c";
+    $font-Flaticon-286-folder-142: "\f21d";
+    $font-Flaticon-287-folder-143: "\f21e";
+    $font-Flaticon-288-file-135: "\f21f";
+    $font-Flaticon-289-file-136: "\f220";
+    $font-Flaticon-290-file-137: "\f221";
+    $font-Flaticon-291-folder-144: "\f222";
+    $font-Flaticon-292-folder-145: "\f223";
+    $font-Flaticon-293-folder-146: "\f224";
+    $font-Flaticon-294-file-138: "\f225";
+    $font-Flaticon-295-file-139: "\f226";
+    $font-Flaticon-296-file-140: "\f227";
+    $font-Flaticon-297-folder-147: "\f228";
+    $font-Flaticon-298-folder-148: "\f229";
+    $font-Flaticon-299-folder-149: "\f22a";
+    $font-Flaticon-300-file-141: "\f22b";
+    $font-Flaticon-301-file-142: "\f22c";
+    $font-Flaticon-302-file-143: "\f22d";
+    $font-Flaticon-303-folder-150: "\f22e";
+    $font-Flaticon-304-folder-151: "\f22f";
+    $font-Flaticon-305-folder-152: "\f230";
+    $font-Flaticon-306-file-144: "\f231";
+    $font-Flaticon-307-video-file: "\f232";
+    $font-Flaticon-308-video-file-1: "\f233";
+    $font-Flaticon-309-folder-153: "\f234";
+    $font-Flaticon-310-folder-154: "\f235";
+    $font-Flaticon-311-folder-155: "\f236";
+    $font-Flaticon-312-video-file-2: "\f237";
+    $font-Flaticon-313-file-145: "\f238";
+    $font-Flaticon-314-file-146: "\f239";
+    $font-Flaticon-315-folder-156: "\f23a";
+    $font-Flaticon-316-folder-157: "\f23b";
+    $font-Flaticon-317-folder-158: "\f23c";
+    $font-Flaticon-318-file-147: "\f23d";
+    $font-Flaticon-319-file-148: "\f23e";
+    $font-Flaticon-320-file-149: "\f23f";
+    $font-Flaticon-321-folder-159: "\f240";
+    $font-Flaticon-322-folder-160: "\f241";
+    $font-Flaticon-323-folder-161: "\f242";
+    $font-Flaticon-324-file-150: "\f243";
+    $font-Flaticon-325-file-151: "\f244";
+    $font-Flaticon-326-file-152: "\f245";
+    $font-Flaticon-327-folder-162: "\f246";
+    $font-Flaticon-328-folder-163: "\f247";
+    $font-Flaticon-329-folder-164: "\f248";
+    $font-Flaticon-330-file-153: "\f249";

@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates');
+
+body {
+    height:100%;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color : #8d9298;
+    font-size: 18px;
+}
+
+.enveloppe{
+    height:100vh;
+}
+
+header{
+    height: 10%;
+    border-bottom: #FF8C00 2px solid;
+}
+
+h1{
+    font-size: 20px;
+}
+
+input{
+    background-color: #70757D;
+    border: none;
+    width:100%;
+}
+
+.grosbloc{
+    height: 90%;
+}
+
+aside{
+    border-right: #FF8C00 2px solid;
+}
+
+nav {
+    flex-wrap: nowrap;
+}
+
+ul, li{
+    list-style: none;
+}
+
+a { color : #8d9298; }
+
+a:hover { 
+    color:#8d9298;
+    text-decoration: #FF8C00 underline; 
+}
+
+p{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+span { text-align:center; }
+
+#arbo { overflow: visible;}
+
+        /* Classes générales */
+
+.bc1 { background-color: #3B414B; }
+.bc2 { background-color: #212833; }
+.bc3 { background-color: #70757D; }
+
+.visible { display: inline-block; }
+.invisible { display: none; }
+
+.trans { transition: all .5s ease; }
+.fs50 {font-size: 50px;}
+.fs30 {font-size: 30px;}
+
+        /* Responsive Design */
+
+@media (max-width:992px) { /* de 0 à 992px */
+
+    *{ height: auto;}
+    img[alt=logodorian]{ display:none; }
+    header, aside, .grosbloc { height:auto;}
+    img { height:auto; width: 20% }
+    a{ text-align: center;}
+    input{width:100%;}
+}   
+@media (max-width:768px) {
+    aside {border:none;}
+}
